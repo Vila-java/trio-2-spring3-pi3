@@ -22,3 +22,20 @@ Por outro lado, um analista funcional nos fornece o seguinte exemplo de Payload 
 
 ![img.png](img2.png)
 
+{
+   "brand": "Chevrolet",
+   "model": "Corsa",
+   "manufacturingDate": "2000-11-20",
+   "number0fKilometers": "115000",
+   "doors": "5",
+   "price": "90000",
+   "currency": "AR",
+   "services": [
+      {
+         "date": "2003-05-20",
+         "kilometers": "60000",
+         "descriptions": "Change air filters"
+      }
+   ],
+   "countofOwners": "2"
+}
