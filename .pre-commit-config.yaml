@@ -8,8 +8,6 @@ repos:
       - id: post_commit_hook
         stages: [post-commit]
 
-
-
   # Next hooks are Code Quality hooks.
   # If you want them to run on each commit, uncomment them
   # These are OPTIONAL.
