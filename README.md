@@ -22,6 +22,7 @@ Por outro lado, um analista funcional nos fornece o seguinte exemplo de Payload 
 
 ![img.png](img2.png)
 
+/*
 {
    "brand": "Chevrolet",
    "model": "Corsa",
@@ -39,3 +40,4 @@ Por outro lado, um analista funcional nos fornece o seguinte exemplo de Payload 
    ],
    "countofOwners": "2"
 }
+*/
