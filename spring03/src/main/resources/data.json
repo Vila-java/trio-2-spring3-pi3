@@ -1,0 +1,10 @@
+{
+    "brand" : "Chevrolet",
+    "model" : "Corsa",
+    "numKilometers" : "115000",
+    "doors" : "5",
+    "price" : "90000",
+    "currency" : "AR",
+    "numOwners" : "2"
+
+}
