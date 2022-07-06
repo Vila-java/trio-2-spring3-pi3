@@ -8,7 +8,7 @@ determinados carros usados.
 Para fazer isso, precisamos desenvolver os
 seguintes endpoints:
 
-![img.png](img1.png)
+![](files/img1.png)
 
 Sendo o proprietário da concessionária um cliente muito exigente, sugere-se a
 realização de boas práticas de programação como a separação do projeto de
@@ -20,4 +20,4 @@ lógica.
 
 Por outro lado, um analista funcional nos fornece o seguinte exemplo de Payload para levar em consideração ao se registrar através do método POST:
 
-![img.png](img2.png)
+![](files/img2.png)
